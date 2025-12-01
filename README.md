@@ -31,7 +31,7 @@ The pipeline adheres to all rules and constraints outlined in Assignment 3.
 │     └── Sentences_AllAgree.txt   
 │── README.txt            
 
-3. How to Run the Notebook
+4. How to Run the Notebook
 Step 1 — Open Notebook in Google Colab
 
 Upload the file i221158_a3.ipynb to Google Colab.
